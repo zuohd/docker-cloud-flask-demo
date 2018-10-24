@@ -3,8 +3,8 @@
 
 
 # Flask Skeleton
-
-Flask starter project......
+# Flask Skeleton
+Flask starter project...
 
 ## Quick Start
 
